@@ -1,0 +1,14 @@
+{
+  "min_monthly_listeners": 2000,
+  "max_monthly_listeners": 250000,
+  "reel_duration_seconds": 7,
+  "resolution": "1080x1920",
+  "visual_style": "minimal moody late-night cinematic muted dark tones",
+  "hashtags": [
+    "#boboplaylist",
+    "#musicdiscovery",
+    "#nowplaying",
+    "#indiemusic",
+    "#latenight"
+  ]
+}

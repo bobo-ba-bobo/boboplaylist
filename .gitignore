@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python cache/artifacts
+__pycache__/
+.pycache/
+*.pyc
+
+# Local generated media
+output/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
