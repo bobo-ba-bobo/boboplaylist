@@ -66,3 +66,4 @@ python3 scripts/generate_caption.py
 - No Instagram publishing in MVP.
 - No copyrighted audio embedding.
 - If optional API keys are missing, the pipeline still runs from mock data.
+- Candidate filtering defaults to tracks marked as available on both YouTube Music and Instagram music.

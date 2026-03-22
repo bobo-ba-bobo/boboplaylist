@@ -13,3 +13,5 @@ output/
 .DS_Store
 .vscode/
 .idea/
+.venv/
+ClipGrab/

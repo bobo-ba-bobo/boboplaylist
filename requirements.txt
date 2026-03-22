@@ -1,1 +1,1 @@
-# MVP intentionally uses only Python stdlib + local ffmpeg binary.
+Pillow>=10.0.0
